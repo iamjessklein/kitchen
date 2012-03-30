@@ -23,6 +23,15 @@ h2{
     
 }
 
+h3{
+ color:#4F406E;
+     padding-left:-15px;
+     margin-top:5px;
+     font-family:"Courier New", Courier, monospace;
+     font-size: 15px;
+     text-transform:uppercase;
+}
+
 p{
     color:#716D7A;
      -moz-transform: rotate(-5deg);
@@ -112,6 +121,13 @@ margin-top:-40px;
 position: fixed;
 top:10px;
 left: 920px;
+}
+
+#summer {
+position:fixed;
+top:250px;
+left:200px;
+z-index:1;
 }
 
 #plate{
