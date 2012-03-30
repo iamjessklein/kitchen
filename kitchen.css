@@ -7,5 +7,30 @@ html{
 }
 
 #cup {
-float: right;
+position: fixed;
+top:10px;
+left: 920px;
+}
+
+#plate{
+position:fixed;
+top:30px;
+left: -235px;
+}
+
+#napkin{
+position:fixed;
+top:200px;
+left:600px;
+}
+
+#fork{
+position:fixed;
+top:300px;
+left:775px;
+z-index:1;
+}
+
+#cookie{
+z-index:1;
 }
