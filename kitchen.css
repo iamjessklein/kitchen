@@ -12,7 +12,6 @@ h1{
     color:#716D7A;
      -moz-transform: rotate(-5deg);
      padding-left:25px;
-    
 }
 
 h2{
@@ -20,7 +19,6 @@ h2{
      -moz-transform: rotate(-5deg);
      padding-left:100px;
      margin-top:-40px;
-    
 }
 
 h3{
@@ -32,17 +30,23 @@ h3{
      text-transform:uppercase;
 }
 
-p{
-    color:#716D7A;
-     -moz-transform: rotate(-5deg);
-     padding-left:45px;
-    
+dl{
+  color:#716D7A;
+  -moz-transform: rotate(-5deg);
+  padding-left:45px;
 }
 
-#whys{
-color:red;
+dt{
+  color:red;
+  width: 50px;
+  text-align: center;
+  float: left;
+  clear: left;
 }
 
+dd{
+  margin: 15px 0 15px 60px;
+}
 
 #what{
 padding-left:5px;
